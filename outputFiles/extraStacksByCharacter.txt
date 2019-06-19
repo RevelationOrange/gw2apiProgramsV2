@@ -1,0 +1,128 @@
+Bank
+Quetzal Cache (4): Trickster Orange (21)
+Dragonite Ore (18): Trickster Orange (66)
+Writ of Experience (125): Trickster Orange (4), Deathly Orange (2)
+Spicy Pumpkin Cookie (249): Revelation Orange (69)
+Teleport to Friend (94): Revelation Orange (10)
+Sip of Liquid Karma (1): Messie Orange (64)
+Drop of Liquid Karma (1): Messie Orange (8)
+Experience Booster (2): Reven Orange (18), Inventor Orange (1)
+Celebration Booster (2): Reven Orange (23)
+Karma Booster (1): Reven Orange (4)
+Glazed Peach Tart (72): Reven Orange (249)
+Birthday Booster (55): Warriorange (2)
+Celebratory Dye Pack (8): Sneaky Orange (1)
+
+Trickster Orange
+Feast of Mushroom Pizzas (1): Tree Dweller Orange (1), Elevari Orange (1)
+Trading Post Express (2): Revelation Orange (11)
+Ornate Rusted Key (1): Revelation Orange (1)
+Bank Access Express (2): Revelation Orange (33)
+Encoded Orders (1): Revelation Orange (2)
+Wrapped Gift (1): Revelation Orange (1)
+Piece of Rare Unidentified Gear (85): Revelation Orange (10)
+Mushroom Cache (42): Revelation Orange (5)
+Thorned Cache (36): Revelation Orange (7)
+Bag of Gear (81): Elle Orange (42), Deathly Orange (3)
+Bag of Masterwork Gear (2): Elle Orange (1)
+Vined Cache (46): Revelation Orange (12)
+Item Booster (1): Reven Orange (13), Elevari Orange (4)
+Instant Repair Canister (1): Revelation Orange (31), Elevari Orange (3)
+Goop-Covered Satchel (23): Elle Orange (25)
+Noxious Seed Pouch (20): Elle Orange (14)
+Noxious Seed Pod (37): Elle Orange (78)
+Heirloom Seed Pod (11): Elle Orange (21)
+Feather-Lined Pouch (12): Elle Orange (16)
+Deluxe Gear Box (1): Elle Orange (1)
+Fallen Adventurer's Backpack (9): Elle Orange (21)
+Quetzal Cache (21): Bank (4)
+Piece of Unidentified Gear (117): Revelation Orange (74)
+Dragonite Ore (66): Bank (18)
+Writ of Experience (4): Deathly Orange (2), Bank (125)
+Thimble of Liquid Karma (1): Revelation Orange (1), Messie Orange (177)
+Piece of Common Unidentified Gear (6): Revelation Orange (170)
+
+Tree Dweller Orange
+Feast of Mushroom Pizzas (1): Trickster Orange (1), Elevari Orange (1)
+Experimental Mordrem Extraction Device (1): Sneaky Orange (1)
+Pact Crowbar (4): Elevari Orange (2)
+
+Elevari Orange
+Feast of Mushroom Pizzas (1): Trickster Orange (1), Tree Dweller Orange (1)
+Item Booster (4): Trickster Orange (1), Reven Orange (13)
+Instant Repair Canister (3): Trickster Orange (1), Revelation Orange (31)
+Speed Booster (5): Deathly Orange (3), Reven Orange (8)
+Rejuvenation Booster (1): Deathly Orange (3)
+Pact Crowbar (2): Tree Dweller Orange (4)
+Strength Booster (1): Reven Orange (10), Inventor Orange (1)
+Cleric's Iron Dagger of Ogre Slaying (1): 
+Cleric's Iron Dagger of Ogre Slaying (1): 
+
+Revelation Orange
+Trading Post Express (11): Trickster Orange (2)
+Ornate Rusted Key (1): Trickster Orange (1)
+Bank Access Express (33): Trickster Orange (2)
+Encoded Orders (2): Trickster Orange (1)
+Wrapped Gift (1): Trickster Orange (1)
+Piece of Rare Unidentified Gear (10): Trickster Orange (85)
+Mushroom Cache (5): Trickster Orange (42)
+Thorned Cache (7): Trickster Orange (36)
+Vined Cache (12): Trickster Orange (46)
+Instant Repair Canister (31): Trickster Orange (1), Elevari Orange (3)
+Piece of Unidentified Gear (74): Trickster Orange (117)
+Thimble of Liquid Karma (1): Trickster Orange (1), Messie Orange (177)
+Piece of Common Unidentified Gear (170): Trickster Orange (6)
+Healing Signet (1): Messie Orange (1)
+Oontz's Necklace of the Pumpkin (1): Deathly Orange (1)
+Spicy Pumpkin Cookie (69): Bank (249)
+Lump of Crystallized Nougat (138): Messie Orange (61)
+Sharpening Skull (182): Messie Orange (59)
+Teleport to Friend (10): Bank (94)
+
+Elle Orange
+Bag of Gear (42): Trickster Orange (81), Deathly Orange (3)
+Bag of Masterwork Gear (1): Trickster Orange (2)
+Goop-Covered Satchel (25): Trickster Orange (23)
+Noxious Seed Pouch (14): Trickster Orange (20)
+Noxious Seed Pod (78): Trickster Orange (37)
+Heirloom Seed Pod (21): Trickster Orange (11)
+Feather-Lined Pouch (16): Trickster Orange (12)
+Deluxe Gear Box (1): Trickster Orange (1)
+Fallen Adventurer's Backpack (21): Trickster Orange (9)
+
+Deathly Orange
+Bag of Gear (3): Trickster Orange (81), Elle Orange (42)
+Writ of Experience (2): Trickster Orange (4), Bank (125)
+Oontz's Necklace of the Pumpkin (1): Revelation Orange (1)
+Speed Booster (3): Reven Orange (8), Elevari Orange (5)
+Rejuvenation Booster (3): Elevari Orange (1)
+
+Reven Orange
+Item Booster (13): Trickster Orange (1), Elevari Orange (4)
+Speed Booster (8): Deathly Orange (3), Elevari Orange (5)
+Experience Booster (18): Inventor Orange (1), Bank (2)
+Celebration Booster (23): Bank (2)
+Strength Booster (10): Elevari Orange (1), Inventor Orange (1)
+Karma Booster (4): Bank (1)
+Glazed Peach Tart (249): Bank (72)
+
+Messie Orange
+Thimble of Liquid Karma (177): Trickster Orange (1), Revelation Orange (1)
+Healing Signet (1): Revelation Orange (1)
+Lump of Crystallized Nougat (61): Revelation Orange (138)
+Sharpening Skull (59): Revelation Orange (182)
+Sip of Liquid Karma (64): Bank (1)
+Drop of Liquid Karma (8): Bank (1)
+Solaria, Circle of the Sun (1): 
+Solaria, Circle of the Sun (1): 
+
+Sneaky Orange
+Experimental Mordrem Extraction Device (1): Tree Dweller Orange (1)
+Celebratory Dye Pack (1): Bank (8)
+
+Inventor Orange
+Experience Booster (1): Reven Orange (18), Bank (2)
+Strength Booster (1): Reven Orange (10), Elevari Orange (1)
+
+Warriorange
+Birthday Booster (2): Bank (55)
